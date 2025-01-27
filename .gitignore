@@ -1,2 +1,9 @@
 
 /tmodels
+/torch/*
+/tensor/*
+/saved_models_torch/*
+/data/*
+/results/*
+*.pth
+__pycache*/*

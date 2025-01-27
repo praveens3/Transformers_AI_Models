@@ -7,6 +7,7 @@ from transformers import TFAutoModelForSequenceClassification, TFTrainingArgumen
 #from tensorflow.keras.optimizers import Adam
 # import transformers
 # print (transformers.__version__)
+print (tf.__version__)
 
 def f1():
     # Load a pre-trained sentiment-analysis model from Hugging Face
